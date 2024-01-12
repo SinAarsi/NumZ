@@ -1,0 +1,32 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-81r {
+  box-sizing: border-box;
+  padding: 17.9rem 54.7rem 17.9rem 58.9rem;
+  width: 100%;
+  height: 302.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.desktop-1-81r .auto-group-hhmv-tQL {
+  width: 30.4rem;
+  height: 0.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
